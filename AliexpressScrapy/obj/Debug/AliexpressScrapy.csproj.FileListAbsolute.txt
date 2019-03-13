@@ -1,0 +1,11 @@
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\bin\Debug\AliexpressScrapy.exe.config
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\bin\Debug\AliexpressScrapy.exe
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\bin\Debug\AliexpressScrapy.pdb
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\obj\Debug\AliexpressScrapy.csprojAssemblyReference.cache
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\obj\Debug\AliexpressScrapy.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\obj\Debug\AliexpressScrapy.csproj.CopyComplete
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\obj\Debug\AliexpressScrapy.exe
+C:\Users\Jonat\source\repos\AliexpressScrapy\AliexpressScrapy\obj\Debug\AliexpressScrapy.pdb
